@@ -1,4 +1,5 @@
 # STAT-628
 Module two for STAT 628
 
-lzhu88@wisc.edu
+Lingfeng Zhu lzhu88@wisc.edu
+Ruochen Yin ryin26@wisc.edu
